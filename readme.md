@@ -1,1 +1,1 @@
-Learning Scene-invariant Distribution for Generalizable Blind Image Quality Assessment
+This method won the championship in the NTIRE 2024 Portrait Quality Assessment Challenge.
